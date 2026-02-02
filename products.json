@@ -1,0 +1,112 @@
+[
+   {
+      "productName": "A Year of Us",
+      "oneLiner": "12 months of shared memories and moments",
+      "price": 799,
+      "discount": 0,
+      "images": [
+         "images/products/a-year-of-us/main.png",
+         "images/products/a-year-of-us/1.png",
+         "images/products/a-year-of-us/2.png",
+         "images/products/a-year-of-us/3.png",
+         "images/products/a-year-of-us/4.png",
+         "images/products/a-year-of-us/5.png",
+         "images/products/a-year-of-us/6.png",
+         "images/products/a-year-of-us/7.png",
+         "images/products/a-year-of-us/8.png",
+         "images/products/a-year-of-us/9.png",
+         "images/products/a-year-of-us/10.png",
+         "images/products/a-year-of-us/11.png",
+         "images/products/a-year-of-us/12.png"
+      ],
+      "description": "A handcrafted jar containing 12 thoughtfully written chits — one for each month of the year. Each chit reveals a meaningful activity like a movie date, dinner outing, or quality time together, encouraging couples to celebrate love all year long."
+   },
+   {
+      "productName": "Now Playing: Us",
+      "oneLiner": "Our Moment On Repeat",
+      "price": 999,
+      "discount": 0,
+      "images": [
+         "images/products/now-playing-us/main.png",
+         "images/products/now-playing-us/1.png",
+         "images/products/now-playing-us/2.png",
+         "images/products/now-playing-us/3.png",
+         "images/products/now-playing-us/4.png",
+         "images/products/now-playing-us/5.png",
+         "images/products/now-playing-us/6.png",
+         "images/products/now-playing-us/7.png",
+         "images/products/now-playing-us/8.png",
+         "images/products/now-playing-us/9.png",
+         "images/products/now-playing-us/10.png",
+         "images/products/now-playing-us/11.png",
+         "images/products/now-playing-us/12.png"
+      ],
+      "description": "A personalized couple photo frame inspired by modern music and streaming designs. Featuring your favorite picture, names, and a special date, this frame captures your relationship like a song you never stop playing."
+   },
+   {
+      "productName": "Now Playing: You",
+      "oneLiner": "Your Moment Now Playing, beautifully framed",
+      "price": 899,
+      "discount": 0,
+      "images": [
+         "images/products/now-playing-you/main.png",
+         "images/products/now-playing-you/1.png",
+         "images/products/now-playing-you/2.png",
+         "images/products/now-playing-you/3.png",
+         "images/products/now-playing-you/4.png",
+         "images/products/now-playing-you/5.png",
+         "images/products/now-playing-you/6.png",
+         "images/products/now-playing-you/7.png",
+         "images/products/now-playing-you/8.png",
+         "images/products/now-playing-you/9.png",
+         "images/products/now-playing-you/10.png",
+         "images/products/now-playing-you/11.png",
+         "images/products/now-playing-you/12.png"
+      ],
+      "description": "A personalized single-photo frame inspired by Spotify and streaming-style designs. Perfect for gifting someone special or celebrating self-love, customized with a photo, name, and meaningful details."
+   },
+   {
+      "productName": "The Eternal Bouquet",
+      "oneLiner": "Roses that never fade",
+      "price": 699,
+      "discount": 0,
+      "images": [
+         "images/products/the-eternal-bouquet/main.png",
+         "images/products/the-eternal-bouquet/1.png",
+         "images/products/the-eternal-bouquet/2.png",
+         "images/products/the-eternal-bouquet/3.png",
+         "images/products/the-eternal-bouquet/4.png",
+         "images/products/the-eternal-bouquet/5.png",
+         "images/products/the-eternal-bouquet/6.png",
+         "images/products/the-eternal-bouquet/7.png",
+         "images/products/the-eternal-bouquet/8.png",
+         "images/products/the-eternal-bouquet/9.png",
+         "images/products/the-eternal-bouquet/10.png",
+         "images/products/the-eternal-bouquet/11.png",
+         "images/products/the-eternal-bouquet/12.png"
+      ],
+      "description": "A handcrafted bouquet made with handmade roses, symbolizing timeless love and care. Designed to last forever, this bouquet is a keepsake that never wilts."
+   },
+   {
+      "productName": "The Ultimate Love Tale",
+      "oneLiner": "Everything your love story deserves",
+      "price": 1899,
+      "discount": 0,
+      "images": [
+         "images/products/the-ultimate-love-tale/main.png",
+         "images/products/the-ultimate-love-tale/1.png",
+         "images/products/the-ultimate-love-tale/2.png",
+         "images/products/the-ultimate-love-tale/3.png",
+         "images/products/the-ultimate-love-tale/4.png",
+         "images/products/the-ultimate-love-tale/5.png",
+         "images/products/the-ultimate-love-tale/6.png",
+         "images/products/the-ultimate-love-tale/7.png",
+         "images/products/the-ultimate-love-tale/8.png",
+         "images/products/the-ultimate-love-tale/9.png",
+         "images/products/the-ultimate-love-tale/10.png",
+         "images/products/the-ultimate-love-tale/11.png",
+         "images/products/the-ultimate-love-tale/12.png"
+      ],
+      "description": "A premium Valentine combo gift including a personalized frame, A Year of Us jar, a small teddy, chocolates, and a handmade bouquet. Curated for those who want to gift an unforgettable, all-in-one love story."
+   }
+]
