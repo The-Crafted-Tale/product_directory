@@ -1,7 +1,7 @@
 [
    {
-      "productName": "A Year of Us",
-      "oneLiner": "12 months of shared memories and moments",
+      "product_name": "A Year of Us",
+      "one_liner": "12 months of shared memories and moments",
       "price": 799,
       "discount": 0,
       "images": [
@@ -22,8 +22,8 @@
       "description": "A handcrafted jar containing 12 thoughtfully written chits — one for each month of the year. Each chit reveals a meaningful activity like a movie date, dinner outing, or quality time together, encouraging couples to celebrate love all year long."
    },
    {
-      "productName": "Now Playing: Us",
-      "oneLiner": "Our Moment On Repeat",
+      "product_name": "Now Playing: Us",
+      "one_liner": "Our Moment On Repeat",
       "price": 999,
       "discount": 0,
       "images": [
@@ -44,8 +44,8 @@
       "description": "A personalized couple photo frame inspired by modern music and streaming designs. Featuring your favorite picture, names, and a special date, this frame captures your relationship like a song you never stop playing."
    },
    {
-      "productName": "Now Playing: You",
-      "oneLiner": "Your Moment Now Playing, beautifully framed",
+      "product_name": "Now Playing: You",
+      "one_liner": "Your Moment Now Playing, beautifully framed",
       "price": 899,
       "discount": 0,
       "images": [
@@ -66,8 +66,8 @@
       "description": "A personalized single-photo frame inspired by Spotify and streaming-style designs. Perfect for gifting someone special or celebrating self-love, customized with a photo, name, and meaningful details."
    },
    {
-      "productName": "The Eternal Bouquet",
-      "oneLiner": "Roses that never fade",
+      "product_name": "The Eternal Bouquet",
+      "one_liner": "Roses that never fade",
       "price": 699,
       "discount": 0,
       "images": [
@@ -88,8 +88,8 @@
       "description": "A handcrafted bouquet made with handmade roses, symbolizing timeless love and care. Designed to last forever, this bouquet is a keepsake that never wilts."
    },
    {
-      "productName": "The Ultimate Love Tale",
-      "oneLiner": "Everything your love story deserves",
+      "product_name": "The Ultimate Love Tale",
+      "one_liner": "Everything your love story deserves",
       "price": 1899,
       "discount": 0,
       "images": [
